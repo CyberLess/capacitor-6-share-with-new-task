@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor/share",
+  "name": "capacitor-6-share-with-new-task",
   "version": "6.0.2",
   "description": "The Share API provides methods for sharing content in any sharing-enabled apps the user may have installed.",
   "main": "dist/plugin.cjs.js",
@@ -17,13 +17,6 @@
   ],
   "author": "Ionic <hi@ionicframework.com>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor-plugins.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ionic-team/capacitor-plugins/issues"
-  },
   "keywords": [
     "capacitor",
     "plugin",
